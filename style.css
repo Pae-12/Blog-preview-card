@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: hsl(47, 88%, 63%);
+    font-family: "Figtree", sans-serif;
+    transition: all 0.3s ease;
+}
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    background-color: hsl(0, 0%,100%);
+    padding: 20px;
+    margin: 5rem;
+    border-radius: 10px;
+    border-width: 2px;
+    border: 1px solid black;
+    box-shadow: 10px 10px 0 0 rgba(1,1,1,1);
+    transition: all 0.3s ease;
+}
+.card img {
+    border-radius: 20px;
+}
+#illustration {
+    height: 200px;
+    width: 300px;
+}
+button {
+    background-color: hsl(47, 88%, 63%);
+    display: block;
+    border: 0;
+    margin-top: 15px;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+h2 {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+p{
+    font-size: 16px;
+}
+.card p{
+    color: hsl(0, 0%, 42%);
+}
+.pfp {
+    height: 30px;
+    margin-top: 10px;
+}
+.card:hover{
+    transform: scale(1.05);
+}
+.attribution {
+    text-align: center;
+}
+@media (max-width: 375px) {
+  .card {
+    margin: 3rem;
+    margin-top: 3rem; /* reduce big margins */
+    padding: 15px; /* slightly smaller padding */
+    width: 100%; /* take full width of screen */
+    height: 10%;
+  }
+
+  #illustration {
+    height: auto; /* let the image scale */
+    width: 100%;
+    border-radius: 5px;
+  }
+
+  p {
+    font-size: 14px; /* slightly smaller text */
+  }
+
+  button {
+    width: 30%; /* make button stretch nicely */
+    padding: 10px;
+  }
+  h2{
+    margin: 5px
+  }
+}
