@@ -13,10 +13,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Author](#author)
 
-## Overview
-
-This is a
-
 ### The challenge
 
 Users should be able to:
@@ -25,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-(/blog-preview-card-main/BLOG.png)
+[screenshot](./blog-preview-card-main/BLOG.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/Pae-12/Blog-preview-card)
+- Live Site URL: [live site](https://pae-12.github.io/Blog-preview-card/)
 
 ### Built with
 
@@ -47,12 +43,11 @@ Moreover, this has helped me gain confidence in my current skills, providing me 
 
 ### Continued development
 
-I'll keep practicing flexboxes, grids, and media queries,since I'm still rough at using them.
+I'll keep practicing flexboxes, grids, and media queries, since I'm still rough at using them.
 
 I'll keep participating in similar challenges to reinforce the things I've learned.
 
 ## Author
 
-- GitHub - [@Pae-12]
-- Frontend Mentor - [@Pae-12](https://www.frontendmentor.io/profile/yourusername)
-- Fiverr - [@]
+- GitHub - [Pae-12](https://github.com/Pae-12)
+- Frontend Mentor - [@Pae-12](https://www.frontendmentor.io/profile/Pae-12)
